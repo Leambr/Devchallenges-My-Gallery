@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href=""> 
+    <a href="https://leambr.github.io/Devchallenges-My-Gallery/"> 
       Live Demo
     </a>
     <span> | </span>
