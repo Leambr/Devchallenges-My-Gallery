@@ -30,7 +30,7 @@
 
 ## Overview
 
-![image]()
+![My_gallery_screen](https://user-images.githubusercontent.com/95865130/153756132-c05f3f04-66c7-4230-876a-fff499794bb3.jpg)
 
 During this challenge, I have improved my knowledge of grid in CSS. Indeed, I became more familiar with the fr values and how to display items according to specific rows and columns.
 
